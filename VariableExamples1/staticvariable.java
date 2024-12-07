@@ -1,4 +1,4 @@
-package VariableExamples;
+package VariableExamples1;
 //Class Variables (Static Variables): Declared with the static keyword and shared by all instances of the class.
 public class staticvariable {
     static int count = 0; // Static variable shared by all instances

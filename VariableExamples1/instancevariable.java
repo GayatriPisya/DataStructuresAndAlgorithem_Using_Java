@@ -1,4 +1,4 @@
-package VariableExamples;
+package VariableExamples1;
 //Instance Variables: Declared inside a class, but outside any method.
 public class instancevariable{
         int age; // Instance variable 'age' declared inside the class
