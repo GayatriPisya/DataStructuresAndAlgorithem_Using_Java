@@ -1,6 +1,6 @@
 //If you do not include a break statement, the program will continue executing all cases after the matched case.
 package ConditionalStatements4;
-public class FallThroughExample {
+public class SwitchFallThroughExample {
     public static void main(String[] args) {
         int day = 2;
 
