@@ -1,4 +1,5 @@
 package FunctionsExamples6;
+// Accepts input and returns a value.
 
 public class FunctionType4 {
     public static void main(String[] args){
