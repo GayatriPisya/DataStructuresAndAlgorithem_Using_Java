@@ -1,5 +1,5 @@
 package FunctionsExamples6;
-
+// Does not accept input but returns a value.
 public class FunctionType3 {
     public static int Number(){
         return 88;
