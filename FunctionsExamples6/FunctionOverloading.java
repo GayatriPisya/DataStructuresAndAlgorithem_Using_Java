@@ -1,5 +1,5 @@
 package FunctionsExamples6;
-
+// Overloading allows multiple functions to have the same name but different parameters.
 public class FunctionOverloading {
     public static void main(String[] args) {
         System.out.println(add(10, 20)); // Calls the first add
