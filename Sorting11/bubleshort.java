@@ -16,10 +16,10 @@ public class bubleshort {
                     arr[j+1] = temp;
                 }
             }
-            // System.out.println();
-            // for(int nub: arr){
-            //     System.out.print(nub + " ");
-            // }
+            System.out.println();
+            for(int nub: arr){
+                System.out.print(nub + " ");
+            }
         }
         System.out.println("\nAfter Sorting:");
         for(int nub: arr){
