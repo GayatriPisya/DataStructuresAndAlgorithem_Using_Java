@@ -9,3 +9,6 @@ public class possiblenums{
 
     }
 }
+
+// The time complexity of this code is O(n^2) where n is the length of the array.
+// This is because there are two nested loops, each iterating through the array of length n
